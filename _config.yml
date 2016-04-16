@@ -14,13 +14,13 @@ gems:
   - jekyll-sitemap
 
 # Custom Variables
-analytics: 100929437
+analytics: 100943296
 author:
-  email: "&#109;&#97;&#98;&#101;&#114;&#103;&#101;&#114;&#54;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;"
-  github: "mark-berger"
-  linkedin: "maberger"
-  name: "Mark Berger"
+  email: "sreenath.s@husky.neu.edu"
+  github: "sreeram6791"
+  linkedin: "mandikal"
+  name: "Sreeram Mandikal Sreenath"
   uri: "http://maberger.com"
-description: "Personal website of Mark Berger, BASc Computer Engineering."
+description: "Personal website of Sreeram Sreenath, MS Information Systems."
 title: "Sreeram Mandikal Sreenath"
 url: "http://maberger.com"
